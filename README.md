@@ -109,8 +109,8 @@ TripNest features a seamless, end-to-end user journey:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/srixram08/Tripnest.git
-   cd Tripnest
+   git clone https://github.com/krithik2908/tripnest.git
+   cd tripnest
    ```
 
 2. **Install dependencies**:
